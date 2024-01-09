@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "pug": "^3.0.2"
+  },
+  "name": "hoc-nodejs-beginer",
+  "version": "1.0.0",
+  "description": "Bat dau hoc Node JS",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./src/server.js"
+  },
+  "author": "Minh Tai",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "3.0.2"
+  }
+}
